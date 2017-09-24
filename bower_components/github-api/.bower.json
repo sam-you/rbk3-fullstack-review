@@ -1,0 +1,15 @@
+{
+  "name": "github-api",
+  "homepage": "https://github.com/michael/github",
+  "version": "3.1.0",
+  "_release": "3.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.1.0",
+    "commit": "b1b4146e858326677c0099fa5265cefaacc4c3c8"
+  },
+  "_source": "https://github.com/michael/github.git",
+  "_target": "^3.1.0",
+  "_originalSource": "github-api",
+  "_direct": true
+}
